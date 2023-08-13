@@ -1,2 +1,0 @@
-# .github
-Política_descanso
